@@ -1,0 +1,27 @@
+{
+    "id": "CB276562",
+    "path": "C:/Users/Daniel/Repos/data/output_species_count/species_counts.R",
+    "project_path": "output_species_count/species_counts.R",
+    "type": "r_source",
+    "hash": "2821977584",
+    "contents": "",
+    "dirty": false,
+    "created": 1656579348037.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "0,10",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1656579397,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1656579397317,
+    "read_only": false,
+    "read_only_alternatives": []
+}
